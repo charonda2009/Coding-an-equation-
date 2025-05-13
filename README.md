@@ -11,3 +11,9 @@ Did you catch it too? One of those moments where you realize reading between the
 
 
 ![coding equation](https://github.com/user-attachments/assets/4b485a61-4145-4f43-9344-e9a7f5bb568f)
+
+
+x = 0
+y = 0
+y = 3 * x**3 - 2 * x**2 + 3 * x - 1
+print("y =", y)
